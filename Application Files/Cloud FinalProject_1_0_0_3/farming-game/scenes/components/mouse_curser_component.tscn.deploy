@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://d12swahgqjaao"]
+
+[ext_resource type="Script" uid="uid://nflxxc8ccnci" path="res://scenes/components/mouse_curser_component.gd" id="1_df7eq"]
+
+[node name="MouseCurserComponent" type="Node"]
+script = ExtResource("1_df7eq")
