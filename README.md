@@ -3,12 +3,12 @@
 Mini 2D farming game with a WinForms launcher + cloud save/logs.
 
 ## Download & Install (Windows)
-### Option A — Setup (Recommended)
+### Option A Setup (Recommended)
 1. Download: `setup.exe`
 2. Run it and follow the installer steps.
 3. After install, launch the app from the Start Menu shortcut.
 
-### Option B — ClickOnce
+### Option B ClickOnce
 1. Download: `Cloud FinalProject.application`
 2. Double-click it to install/run.
 
